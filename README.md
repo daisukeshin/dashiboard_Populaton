@@ -1,4 +1,4 @@
-# dashboard_Population_Shizuoka
+# dashboard_Population_ShizuokaCity
 Population data provided as open data for Shizuoka City.
 
 ダッシュボードの作成講座用のデータが取得できるための、リポジトリです。
