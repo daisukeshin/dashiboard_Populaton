@@ -25,11 +25,16 @@ Population data provided as open data for Shizuoka City.
 データセットはデジタル庁の自治体標準オープンデータセットの準拠し、記載のないものは独自定義しています。
 
 [デジタル庁　自治体標準オープンデータセット](https://www.digital.go.jp/resources/open_data/municipal-standard-data-set-test/?fbclid=IwAR1AisrpdlBnTRR0QHrOXEPAv1wpC4MZxtdtu0KDWcd0cXUH9F-RNYibKVc)
-
+<br>
+<br>
+<br>
 このリポジトリの人口データを用いた人口ダッシュボードの作成方法として、以下のPDFが参考いただけます。
 ダッシュボードはLookerを利用しています。
 人口データがあれば、様々な自治体で人口ダッシュボードが作成できます。
 
-
+      人口ダッシュボード作成講座資料.pdf  
+<br>
+<br>
 ダッシュボードの作成例は以下のURLを参考してください。
+
 [趣味で作った　静岡市人口ダッシュボード](https://lookerstudio.google.com/reporting/4b5f3d68-7f27-4c4e-9a50-253889ae45f6)
